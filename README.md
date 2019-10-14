@@ -2,7 +2,14 @@
 A basic Movie Recommendation App with interactive GUI which provide you with Names of top five movies according to imdb rating based on EMOTIONS,
 
 The app consists of 8 EMOTION buttons:
-1.SAD 2.DISGUST 3.ANGER 4.ANTICIPATION 5.FEAR 6.ENJOYMENT 7.TRUST 8.SURPRISE
+1.SAD 
+2.DISGUST 
+3.ANGER 
+4.ANTICIPATION 
+5.FEAR 
+6.ENJOYMENT 
+7.TRUST 
+8.SURPRISE
 
 Technology used:
 1.Python
