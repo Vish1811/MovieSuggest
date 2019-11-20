@@ -21,3 +21,9 @@ Technology used:
 Its executible file can be made so that it can run other system which doesnot have such kind of environment
 
 Run mr.py to use the app.
+
+Screen Shots of the Resulting GUI
+Screenshot 1
+![mr Screeenshots](Screenshot1.png)
+Screenshot 2
+![mr Screeenshots](Screenshot2.png)
